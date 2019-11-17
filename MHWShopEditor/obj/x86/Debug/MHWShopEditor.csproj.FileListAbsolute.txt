@@ -1,0 +1,5 @@
+/home/casval/repos/MHWShopEditor/MHWShopEditor/bin/Debug/MHWShopEditor.exe
+/home/casval/repos/MHWShopEditor/MHWShopEditor/bin/Debug/MHWShopEditor.pdb
+/home/casval/repos/MHWShopEditor/MHWShopEditor/obj/x86/Debug/MHWShopEditor.csprojAssemblyReference.cache
+/home/casval/repos/MHWShopEditor/MHWShopEditor/obj/x86/Debug/MHWShopEditor.exe
+/home/casval/repos/MHWShopEditor/MHWShopEditor/obj/x86/Debug/MHWShopEditor.pdb
