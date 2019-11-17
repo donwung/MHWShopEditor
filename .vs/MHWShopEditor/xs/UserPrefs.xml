@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{C13C3C2F-8767-4350-9F56-EB4395557E98}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MHWShopEditor/MainWindow.cs">
+    <Files>
+      <File FileName="MHWShopEditor/Program.cs" Line="1" Column="1" />
+      <File FileName="MHWShopEditor/Data/Constants.cs" Line="1040" Column="1" />
+      <File FileName="MHWShopEditor/Models/Item.cs" Line="12" Column="10" />
+      <File FileName="MHWShopEditor/MainWindow.cs" Line="130" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MHWShopEditor" expanded="True">
+            <Node name="MHWShopEditor" expanded="True" selected="True">
+              <Node name="UserInterface" expanded="True">
+                <Node name="MainWindow" expanded="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.MHWShopEditor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
