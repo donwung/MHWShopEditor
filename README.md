@@ -2,13 +2,7 @@
 
 ### Overview
 
-This is technically a fork of the original MHW Shop Editor located at https://github.com/IX-Xur/MHW-Shop-Editor
+Since the original MHW Shop Editor isn't publicly available (as of Jan '24), this project is forked from a fork of the original repo.
 
-The purpose of this repository was to rewrite the application to run on Linux, targeted at Debian 10 Buster.
-This application was developed in Mono with GTK# support to replace the WPF GUI.
+Purpose of this fork is to make a custom shoplist and being able to reorganize it - for UI cleanliness.
 
-
-## Changelog
-
-* 11/17/2019
-Initial commit of repo.
